@@ -2,7 +2,7 @@
 
 For the GDSC-2024 Solution Challenge, I led our Welfare project as a sophomore computer engineering student, guiding my team in developing our project's web interface. My team members have significantly improved themselves, managing to prepare their first interface with almost no need for my intervention.
 
- Gdsc-2024 Solution Challange projesi için Welfare projemizde liderlik ettiğim 2. sınıf bilgisayar mühendisi ekip arkadaşlarımın Welfare projemiz için hazırladığı web arayüzümüz. Ekip üyesi arkadaşlarımız kendilerini çok geliştirdiler , neredeyse birkaç yere müdahale etmemi gerektirmeden ilk arayüzlerini hazırladılar.
+ Gdsc-2024 Solution Challange projesi için Welfare projemizde liderlik ettiğim 2. sınıf bilgisayar mühendisi ekip arkadaşlarımın Welfare projemiz için hazırladığı web arayüzümüz. Ekip üyesi arkadaşlarımız kendilerini çok geliştirdiler , ilk arayüzlerini hazırlamalarına yardımcı oldum.
 
 
  
